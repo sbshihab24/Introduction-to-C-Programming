@@ -1,0 +1,10 @@
+int a=10;
+    // int b=5;
+    // int sum = a+b;
+    // int sub= a-b;
+    // int mul= a*b;
+    // int div= a/b;
+    // printf("Addition= %d\n",sum);
+    // printf("Subtraction = %d\n",sub);
+    // printf("Multiplication = %d\n",mul);
+    // printf("Division = %d\n",div);
